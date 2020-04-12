@@ -24,7 +24,7 @@ var buzzer_8cpp =
     [ "Buzzer_Resume", "buzzer_8cpp.html#a3e8515248118fee0fa591d5bb95901f8", null ],
     [ "Buzzer_Start", "buzzer_8cpp.html#a71f58bb14346c094c4032921af0fb56b", null ],
     [ "Buzzer_Stop", "buzzer_8cpp.html#ae0a42d2c5743f382cd6eccde15b86fc2", null ],
-    [ "Update_IT_callback", "buzzer_8cpp.html#a3da15e8f9053c2b299572dfe8f696d83", null ],
+    [ "Update_IT_callback", "buzzer_8cpp.html#a48d377ecb0c9a9f871bcad36f01ce328", null ],
     [ "Active_Buzzer", "buzzer_8cpp.html#a406c3ceb0e2dec8258bc37d89733ce4d", null ],
     [ "Active_Buzzer_Has_Begun", "buzzer_8cpp.html#aaab0a7bab21d71ef4ec5f8923c026ac1", null ],
     [ "Active_Buzzer_Index", "buzzer_8cpp.html#a7a2ded4f5722f4ec8cce9a5de6cb1abe", null ],
